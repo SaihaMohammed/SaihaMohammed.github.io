@@ -3607,9 +3607,9 @@ input, select, textarea {
 				-webkit-transition: width 0.45s ease;
 				-ms-transition: width 0.45s ease;
 				transition: width 0.45s ease;
-				-moz-transition-delay: 0.15s;
-				-webkit-transition-delay: 0.15s;
-				-ms-transition-delay: 0.15s;
+				-moz-transition-delay: 0.45s;
+				-webkit-transition-delay: 0.45s;
+				-ms-transition-delay: 0.45s;
 				transition-delay: 0.15s;
 				background: rgb(240, 240, 240);
 				content: '';
